@@ -1,4 +1,4 @@
-# prog_est_parcial2_prog8
+# prog2_8
 <p><b>Autor:</b> Luis Gonzalo Guzman Sanchez, <b>Fecha:</b> 04/04/2022 <br>
   <b>Escuela:</b> Universidad del Valle de México <b>Campus</b> Villahermosa <br>
   <b>Materia:</b> Programación Estructurada <br>
